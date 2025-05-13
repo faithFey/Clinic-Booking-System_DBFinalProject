@@ -1,5 +1,5 @@
 PROJECT TITLE : CLINIC BOOKING MANAGEMENT SYSTEM
-![Clinic ERD](clinic_ERD.png)
+![Clinic ERD](Clinic_ERD.png)
 
 ###Project Description – Clinic Booking System.
 The Clinic Booking System  is built to handle the core functionalities of a clinic management system. It provides efficient APIs for:
